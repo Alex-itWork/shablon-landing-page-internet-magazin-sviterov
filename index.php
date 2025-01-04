@@ -342,7 +342,7 @@
         </div>
     </div>
 
-<a style="color:#fff; cursor: default;" href="https://web-exito.ru/shablony-landing-page/" target="_blank">Скачать шаблоны Landing page - Web-exito.ru</a>
+<a style="color:#fff; cursor: default;" href="https://t.me/DGEM_SMM/" target="_blank">Заказать шаблоны Landing page</a>
     <script src="js/jquery.bxslider.min.js"></script>
     <script src="js/easyzoom.js"></script>
     <script src="js/script.js"></script>
