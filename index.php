@@ -100,7 +100,7 @@
             <div class="container">
                 <div class="heading">
                     <h1> 						<span class="red">Тренд зимы</span> 					</h1>
-                    <h1>2017-2018</h1> </div>
+                    <h1>2024-2025</h1> </div>
                 <div class="promo-text"> Вы покупаете не вещь,
                     <br> а атмосферу праздника </div>
             </div>
